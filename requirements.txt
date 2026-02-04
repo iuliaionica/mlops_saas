@@ -1,3 +1,9 @@
 fastapi
 uvicorn
-fastapi
+openai
+PyJWT[crypto]
+requests
+pydantic
+fastapi-clerk-auth
+
+
